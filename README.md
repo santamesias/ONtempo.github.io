@@ -4,7 +4,8 @@
 
 Herramienta web de vanguardia que analiza audio directamente en tu navegador. Sin servidores, sin internet, máxima privacidad y precisión profesional.
 
-![Vista previa](https://via.placeholder.com/800x400/030303/d4af37?text=SANTAMESIAS+Studio)
+<img width="1907" height="848" alt="image" src="https://github.com/user-attachments/assets/fdc409c1-f9f5-46d3-afdd-4eaa52332b9c" />
+
 
 ---
 
